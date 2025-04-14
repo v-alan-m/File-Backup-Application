@@ -1,0 +1,11 @@
+{
+    "sources": [
+        "C:\\Users\\VAM\\Desktop\\desktop_all_files\\software",
+        "C:\\Users\\VAM\\Desktop\\desktop_all_files\\Jobs",
+        "C:\\Users\\VAM\\Desktop\\desktop_all_files\\XLaunch",
+        "C:\\Users\\VAM\\Desktop\\desktop_all_files\\projects"
+    ],
+    "destinations": [
+        "K:\\backup"
+    ]
+}
