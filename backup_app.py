@@ -267,5 +267,3 @@ if __name__ == "__main__":
     app = BackupApp(root)
     root.mainloop()
 
-# Create .exe from the target location by using: pyinstaller --onefile --add-data "history.json;." backup_app.py
-# The .exe will be found inside the 'dist' folder.
